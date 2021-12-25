@@ -1,0 +1,15 @@
+estowy Jan Testowy4 9812281981292189 0 420.651
+end
+CD_Projekt 3 2 270.724 270.724 end
+Testowy Maciej Testowy2 0129219021902190 3 296.698
+Adidas 2 long 3 2 20.0948 20.0948 LOTOS 19 short 3 5 4.8604 4.8604 end
+JSW 4 1 33.891 33.891 end
+Tomasz Krypczyk Tomek123 9012290101292019 2 994.909
+PKOBP 26 long 4 2 2.16967 2.2019 end
+end
+Testowy Jan Testowy1 1892981229182198 1 897.776
+Volkswagen 32 short 3 2 26.2933 26.2933 end
+Adidas 1 1 199.466 199.267 end
+Testowy Janusz Testowy3 9807780978907890 4 465.65
+PGN 22 long 6 5 2.65856 2.65856 end
+Adidas 1 2 216 216 end
