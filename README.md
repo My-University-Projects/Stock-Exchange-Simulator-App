@@ -7,6 +7,8 @@
 
                                                                        OTHER INFO
 - The application was written in C ++ according to the paradigm of object-oriented programming. 
-- I used SFML graphics library to create stock charts.
+- I used SFML graphics library to create stock charts. There is a example of chart:
+![image](https://user-images.githubusercontent.com/93645494/147418409-2ff38a5e-6e59-4caf-9f89-cf84f430655c.png)
+
 - The update of the stock value takes place in the background of the program, and the algorithm for calculating the stock value is based on randomness.
 - Algorithm of the brokers advices is based on the moving average of the last 100 stocks. 
