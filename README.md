@@ -1,1 +1,9 @@
-# Stock-exchange-app-simulator
+![image](https://user-images.githubusercontent.com/93645494/147395794-25fd376d-5c58-459c-b201-e3e10fd3149c.png)
+![image](https://user-images.githubusercontent.com/93645494/147395795-cb25e6fb-879d-44b2-b1a4-4006c83b1e84.png)
+![image](https://user-images.githubusercontent.com/93645494/147395796-da36bc4d-c356-4eab-a195-197871c6523b.png)
+![image](https://user-images.githubusercontent.com/93645494/147395797-8c433bc7-cf92-4034-b354-758c82680bae.png)
+![image](https://user-images.githubusercontent.com/93645494/147395798-6a693bea-cda4-426e-9bb3-bfb502a3193c.png)
+![image](https://user-images.githubusercontent.com/93645494/147395799-7729716c-13d5-4835-a967-6732ae3b0596.png)
+![image](https://user-images.githubusercontent.com/93645494/147395800-506e8dd8-6684-4df0-a517-9642443d1512.png)
+![image](https://user-images.githubusercontent.com/93645494/147395801-60638c5e-1983-41c4-8dc6-845a68248b6d.png)
+![image](https://user-images.githubusercontent.com/93645494/147395802-b1034d12-47de-4e6a-828b-feb7c737d31d.png)
